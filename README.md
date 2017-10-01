@@ -9,6 +9,7 @@ Java open source e-commerce software
 - Checkout
 - Administration
 -Manu
+- Hello
 
 
 To get the code:
