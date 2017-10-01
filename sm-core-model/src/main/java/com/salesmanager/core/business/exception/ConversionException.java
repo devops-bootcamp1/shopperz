@@ -11,6 +11,8 @@ public class ConversionException extends Exception
 {
   private static final long serialVersionUID = 687400310032876603L;
   
+  Print("hello");
+  
   public ConversionException(final String msg, final Throwable cause)
   {
       super(msg, cause);
