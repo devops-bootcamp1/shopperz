@@ -1,5 +1,6 @@
 Release changes in version 2.0.5
 
+## testing Jenkins failure
 
 - Spring Data JPA
 - Removal of QueryDSL
