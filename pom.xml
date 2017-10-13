@@ -19,5 +19,9 @@
       <id>rakesh-snapshots</id>
       <url>http://63.142.254.210:8081/repository/rakesh-snapshots/</url>
    </snapshotRepository>
+    <repository>
+      <id>rakesh-releases</id>
+      <url>http://63.142.254.210:8081/repository/rakesh-releases/</url>
+   </repository>
 </distributionManagement>
 </project>
