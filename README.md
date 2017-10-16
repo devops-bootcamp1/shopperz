@@ -8,6 +8,8 @@ Java open source e-commerce software
 - Search
 - Checkout
 - Administration
+-Manu
+- Hello
 
 
 To get the code:
