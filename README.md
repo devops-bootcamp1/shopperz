@@ -7,7 +7,6 @@ Java open source e-commerce software
 - Catalogue
 - Search
 - Checkout
-- Administration
 
 
 To get the code:
