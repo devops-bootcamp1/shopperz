@@ -4,7 +4,7 @@
 
 “This License” refers to version 3 of the GNU General Public License.
 
-“Copyright” also means copyright-le laws that apply to other kinds of works, such as semiconductor masks.
+“Copyright” also copyright-le laws that apply to other kinds of works, such as semiconductor masks.
 
 “The Program” refers to any copyrightable work licensed under this License. Each licensee is addressed as “you”. “Licensees” and “recipients” may be individuals or organizations.
 
