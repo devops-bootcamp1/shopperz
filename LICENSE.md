@@ -6,7 +6,7 @@
 
 “Copyright” also copyright-le laws that apply to other kinds of works, such as semiconductor masks.
 
-“The Program” refers to any copyrightable work licensed under this License. Each licensee is addressed as “you”. “Licensees” and “recipients” may be individuals or organizations.
+“The Program” refers to any copyrightable work licensed under this License. Each license is addressed as “you”. “Licensees” and “recipients” may be individuals or organizations.
 
 o “modify” a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy. The resulting work is called a “modified version” of the earlier work or a work “based on” the earlier work.
 
