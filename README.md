@@ -31,7 +31,7 @@ From the command line with Maven installed:
 
 Run the application from Tomcat 
 -------------------
-copy sm-shop/target/sm-shop.war to tomcat or any other application server deployment dir
+copy sm-shop/target/sm-shop.war to the tomcat or any other application server deployment dir
 
 Increase heap space to 1024 m or at least 512 m
 
